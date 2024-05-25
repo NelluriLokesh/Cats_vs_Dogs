@@ -76,8 +76,8 @@ The model achieves an accuracy of approximately XX% on the validation set. Here 
 
 | Image | Predicted Label | Actual Label |
 |-------|------------------|--------------|
-| ![Cat](sample_cat.jpg) | Cat | Cat |
-| ![Dog](sample_dog.jpg) | Dog | Dog |
+| ![Cat](https://tse4.mm.bing.net/th?id=OIP.R0i85FnEuavAezjzb0O6RQHaFG&pid=Api&P=0&h=180) | Cat | Cat |
+| ![Dog](https://tse3.mm.bing.net/th?id=OIP.8amkcxCP5S_ElaU0-8cuOAHaE8&pid=Api&P=0&h=180) | Dog | Dog |
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request.

@@ -40,7 +40,7 @@ pip install tensorflow keras numpy pandas matplotlib
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cats-vs-dogs.git
+    git clone https://github.com/NelluriLokesh/Cats_vs_Dogs
     cd cats-vs-dogs
     ```
 
